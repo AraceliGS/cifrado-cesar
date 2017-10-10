@@ -177,7 +177,7 @@ Fin function decipher
 
  phrase := prompt('Ingrese una frase');
 
- if typeof(phrase) :== 'string' Entonces
+ if typeof(phrase) :== 'string' && phrase !== '' Entonces
 
     options := '1. Quieres cifrar esta frase según el código ASCII \n 2.Quieres descifrar esta frase en código ASCII.\n';
 
