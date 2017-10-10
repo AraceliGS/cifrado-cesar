@@ -13,7 +13,7 @@ El objetivo de este trabajo es crear una web que pida, por medio de un prompt(),
 
 ## **Diagrama de Flujo**
 
-![Diagrama de Flujo] ![recursos](assets/img-read/recursos.jpg)
+![recursos](assets/img-read/recursos.jpg)
 
 ## **Pseudocódigo**
 
@@ -22,7 +22,6 @@ El objetivo de este trabajo es crear una web que pida, por medio de un prompt(),
 function cipher (str)
 
   index1 := [] //*Comentario : [65, 66, 67] || [97, 98, 99]*
-
 
   indexAscii := [] //*Comentario : [72, 73, 74] || [104, 105, 106]*
 
